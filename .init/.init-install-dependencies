@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/morse-code-converter-f4da5e83/morse_code_frontend"
+}
